@@ -1,5 +1,3 @@
-# gene-expression-ml-bioinformatics
-
 # Gene Expression ML for Disease Classification
 
 ## Objective
